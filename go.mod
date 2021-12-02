@@ -3,6 +3,7 @@ module github.com/uvalib/virgo4-marcid-list
 go 1.13
 
 require (
-	github.com/aws/aws-sdk-go v1.26.2
-	honnef.co/go/tools v0.0.1-2019.2.3 // indirect
+	github.com/aws/aws-sdk-go v1.42.17
+	github.com/kr/pretty v0.1.0 // indirect
+	gopkg.in/check.v1 v1.0.0-20180628173108-788fd7840127 // indirect
 )
